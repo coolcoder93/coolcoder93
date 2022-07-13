@@ -1,4 +1,6 @@
-</t><h1>Test</h1>
+<h1></h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcoder93)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **coolcoder93/coolcoder93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
