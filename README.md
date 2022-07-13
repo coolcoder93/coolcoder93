@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcoder93&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on Dungeons Of Gralug (aka DOG) my own traditional rogue like
+- 🔭 I’m currently working on Dungeons Of Gryberg (aka DOG) my own traditional rogue like
 - 🌱 I’m currently learning python
 
 <!--
