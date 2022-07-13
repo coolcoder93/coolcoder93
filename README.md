@@ -1,4 +1,4 @@
-# [Banner](https://i.stack.imgur.com/xLLd3.gif)
+# ![Banner](https://i.stack.imgur.com/xLLd3.gif)
 <h1></h1>
 
 - 🔭 I’m currently working on Dungeons Of Gryberg (aka DOG) my own traditional rogue like
