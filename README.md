@@ -1,7 +1,7 @@
 # ![Banner](https://i.stack.imgur.com/xLLd3.gif)
 
-- 🔭 I’m currently working on Dungeons Of Gryberg (aka DOG) my own traditional rogue like
-- 🌱 I’m currently learning python and javascript
+- 🔭 I’m currently working on Dungeons Of Agrabaar my own 3D rogue like written in C# with monogame
+- 🌱 I’m currently learning C# and C++
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcoder93&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
