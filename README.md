@@ -1,23 +1,5 @@
-# ![Banner](https://i.stack.imgur.com/xLLd3.gif)
+# CoolCoder93's Github page
 
-- 🔭 I’m currently working on Dungeons Of Agrabaar my own 3D rogue like written in C++ with my custom engine "Flint And Stone Engine"
-- 🌱 I’m currently learning C and C++
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcoder93&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder93&theme=gruvbox)
-
-<!--
-**coolcoder93/coolcoder93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently working on a 3D game engine called "Flint And Stone Engine"written in C++ using openGL (it's in very early development)
+- I'm currently trying to learn C++ and openGL
+- I'm interested in math, science, low level programming, music and art
