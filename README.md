@@ -6,8 +6,8 @@
   - Math
   - Computer science
   - Low-level programming
-  - Music
   - Art
+  - Music
 <br/>
 
 ![city_lights](https://user-images.githubusercontent.com/96700307/196255252-70465f15-5a93-4bdb-a2a6-362f2596155d.png)
