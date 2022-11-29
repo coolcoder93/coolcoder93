@@ -8,7 +8,7 @@
   - Low-level programming
   - Art
   - Music
-- My favorite language is Rust but I also really like C++
+- My favorite language is Rust but I also really like C/C++
 - My dream is to make my own game using my own game engine
 <br/>
 
