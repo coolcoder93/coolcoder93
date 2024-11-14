@@ -1,10 +1,9 @@
 # CoolCoder93's Github page
 
-- I'm currently learning about functional programming along with datastructures and algorithms
+- I'm currently learning about mathematics along with datastructures and algorithms
 - I'm interested in: 
-  - Math
+  - Mathematics
   - Computer science
-  - Functional programming
   - Art
   - Music
 <br/>
